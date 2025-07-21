@@ -362,8 +362,8 @@ label {
     transition: ease 0.7s;
 }
 .section-content3:hover{
-    transform: translate(10px 10px);
-    transition: ease  0.7s;
+    translate: 10px 10px;
+    transition: ease 0.7s;
 }
 .section-content3 h1 {
     font-family: 'Montserrat';
