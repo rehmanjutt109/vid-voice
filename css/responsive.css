@@ -1,0 +1,643 @@
+@media (min-width:1350px) {
+    .navbar {
+        padding: 23px 96px;
+    }
+
+    .section-content {
+        padding: 48px 90px;
+    }
+}
+
+@media (max-width:767px) {
+    /* body {
+        padding: 16px;
+    } */
+
+    .offcanvas-body {
+        padding: 0 16px;
+    }
+
+    .offcanvas {
+        background-color: #9044D2;
+
+    }
+
+    .navbar {
+        padding: 24px 16px;
+        border-radius: 50px;
+        margin: 16px 16px 0;
+    }
+
+    .ab-nav {
+        padding: 60px 0;
+    }
+
+    .button {
+        display: none;
+    }
+
+    .btn-canva {
+        display: block;
+        padding: 0 !important;
+    }
+
+    .btn-canva:focus {
+        box-shadow: none;
+    }
+
+    .title img {
+        height: 30px;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .av-link {
+        color: #fff;
+        font-size: 16px;
+        font-weight: 400;
+        font-family: 'Hind';
+        transition: ease 0.7s;
+        background-color: transparent;
+    }
+
+    .av-link:hover {
+        color: #fff;
+        transition: ease 0.7s;
+    }
+    .accordion-item{
+        background-color: transparent;
+    }
+    .accordion-button:not(.collapsed) {
+        color: #fff;
+        font-size: 16px;
+        background-color: transparent;
+        box-shadow: none;
+        transition: ease 0.7s;
+    }
+    .accordion-body{
+        background-color: none;
+    }
+    .accordion-button:focus {
+        box-shadow: none;
+    }
+
+    .item {
+        color: #fff;
+        font-size: 14px;
+        font-family: 'Hind';
+        text-decoration: none;
+    }
+
+    .item:active,
+    .item:hover {
+        color: #fff;
+        text-decoration: none;
+        box-shadow: none;
+    }
+
+    #button {
+        display: block !important;
+        width: 100%;
+    }
+
+    .section2 {
+        margin: 16px 16px 0;
+    }
+
+    .section-content {
+        padding: 16px 20px 25px !important;
+    }
+
+    .section2 img {
+        height: 100%;
+        width: 100%;
+    }
+
+    #root {
+        padding: 0 !important;
+    }
+
+    .section-content h1 {
+        font-size: 44px;
+        padding-top: 20px;
+    }
+
+    .flex {
+        margin-top: 30px;
+    }
+
+    .section-content1 {
+        margin-top: 16px;
+    }
+
+    .section-content1 h1 {
+        font-size: 20px;
+        padding: 16px;
+    }
+
+    .section-content1 p {
+        width: 100%;
+        padding: 0 16px 24px !important;
+    }
+
+    .slidecontainer {
+        padding: 0 16px;
+    }
+
+    #range {
+        width: 100%;
+        margin: 0 !important;
+    }
+
+    .flex1 {
+        flex-direction: column;
+        padding: 30px 16px 24px;
+        gap: 20px;
+    }
+
+    .flex2 {
+        width: 100%;
+        gap: 20px;
+    }
+
+    .flex2 p {
+        width: 100%;
+        padding: 5px 0px 0px !important;
+    }
+
+    .section-content2 p {
+        padding: 16px;
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .section3 {
+        margin-top: 115px;
+        padding: 0 16px;
+    }
+
+    .section3 h1 {
+        font-size: 22px;
+    }
+
+    .section-content3 h1 {
+        font-size: 16px;
+        padding-top: 16px;
+    }
+
+    .section-content3 p {
+        padding-top: 16px;
+        margin: 0;
+    }
+
+    .section3 .btn-quote {
+        margin-top: 16px;
+        margin-bottom: 25px;
+    }
+
+    .flex3 {
+        gap: 18px;
+    }
+
+    .flex3 img {
+        margin: 0 !important;
+        height: auto !important;
+        width: auto !important;
+    }
+
+    .flex3 p {
+        font-size: 16px;
+    }
+
+    .Section4 {
+        padding: 0 16px 30px;
+        border-radius: 12px;
+        margin: 100px 16px 0;
+    }
+
+    .Section4 h1 {
+        font-size: 25px;
+        padding-top: 73px;
+    }
+
+    .Section4 p {
+        padding-top: 16px;
+    }
+
+    .Section4 img {
+        height: 100%;
+        width: 100%;
+        margin-top: 35px;
+    }
+
+    .section-content3 {
+        margin-top: 40px;
+    }
+
+    .img-rect {
+        margin-top: 16px;
+    }
+
+    .Section4 button {
+        margin-top: 35px;
+    }
+
+    .section5 {
+        padding: 70px 0 70px;
+    }
+
+    .flex4 {
+        padding: 20px 24px;
+        width: 348px;
+    }
+
+    .flex4 img {
+        height: 64px;
+        width: 64px;
+    }
+
+    .img-flex {
+        margin-left: -15px;
+    }
+
+    .addition {
+        margin-top: 18px;
+    }
+
+    .section5 {
+        margin: 0 16px;
+    }
+
+    .section5 h1 {
+        font-size: 25px;
+        padding: 25px 0 25px;
+    }
+
+    .section5 p {
+        width: 100%;
+    }
+
+    .btn-5 {
+        margin-top: 25px;
+    }
+
+    .section6 {
+        border-radius: 12px;
+        padding: 80px 0 120px;
+    }
+
+    .banner-wrapper {
+        margin-top: 56px;
+    }
+
+    .flex6 {
+        margin-top: 27px;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .section7 {
+        padding: 40px 0;
+    }
+
+    .section7 h1 {
+        font-size: 25px;
+        padding: 40px 0 25px;
+    }
+
+    .section7 button {
+        margin-top: 25px;
+        margin-bottom: 40px;
+    }
+
+    .section7-content p {
+        width: 50%;
+    }
+
+    .section-content5 {
+        margin-top: 15px;
+    }
+
+    .section8 {
+        padding: 20px 0 46px;
+    }
+
+    .section8 .flex4 {
+        padding: 20px 10px;
+    }
+
+    .section8 .flex4 img {
+        height: 64px;
+        width: 64px;
+    }
+
+    .section8 h1 {
+        font-size: 64px;
+        width: 100%;
+        word-spacing: 16px;
+        padding-top: 20px;
+    }
+
+    .section8 p {
+        font-size: 16px;
+        padding-top: 20px;
+        width: 100%;
+        padding: 0 16px;
+    }
+
+    .section8 .btn-order {
+        margin: 32px 0 56px;
+    }
+
+    .footer {
+        padding: 40px 111px 80px;
+    }
+
+    .footer-content p {
+        padding-top: 40px;
+    }
+
+    #content {
+        padding: 0 0 16px;
+    }
+
+    .footer-content1 {
+        text-align: left;
+    }
+
+    .flex7 {
+        float: left;
+    }
+
+    .flex8 {
+        flex-direction: column-reverse;
+        padding: 40px 53px 40px 93px;
+    }
+
+    .flex8 p {
+        padding-top: 16px;
+    }
+
+    .flex9 {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .flex9 p {
+        padding: 0 !important;
+    }
+
+    .footer-content {
+        float: left;
+        text-align: left;
+    }
+}
+
+@media (min-width:767px) and (max-width:992px) {
+    .navbar {
+        padding: 16px 32px;
+    }
+
+    .btn-canva {
+        display: block;
+        padding: 0;
+        margin: 0;
+    }
+
+    .section2 img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .btn-canva:focus {
+        box-shadow: none;
+    }
+
+    .offcanvas {
+        background: linear-gradient(97.76deg, #DD4493 0%, #9044D2 100%);
+
+    }
+
+    .offcanvas .title img {
+        width: 189px;
+        height: 48px;
+    }
+
+    .accordion-item {
+        background-color: transparent;
+    }
+
+    .accordion-body {
+        padding: 0;
+    }
+
+    .item {
+        text-decoration: none;
+        color: #fff;
+        padding: 10px;
+        font-size: 14px;
+        transition: ease 0.7s;
+    }
+
+    .item:hover {
+        background: none;
+        box-shadow: none;
+        color: #fff;
+        background-color: #fff;
+        font-size: 16px;
+        transform: scale(1.5);
+        transition: ease 0.7s;
+    }
+
+    .av-link {
+        background-color: transparent;
+        box-shadow: none;
+        color: #fff;
+        font-size: 14px;
+        transition: ease 0.7s;
+    }
+
+    .accordion-button:not(.collapsed) {
+        color: #fff;
+        font-size: 16px;
+        background-color: transparent;
+        box-shadow: none;
+        transition: ease 0.7s;
+    }
+
+    .accordion-button:focus {
+        box-shadow: none;
+    }
+
+    .button {
+        display: none;
+    }
+
+    .section-content {
+        padding: 85px 32px;
+    }
+
+    .section-content h1 {
+        font-size: 55px;
+        padding-top: 40px;
+    }
+
+    .flex {
+        margin-top: 35px;
+    }
+
+    .section-content1 h1 {
+        font-size: 27px;
+        padding: 32px 32px 20px !important;
+    }
+
+    .section-content1 p {
+        padding: 0 32px 20px;
+        width: 100%;
+    }
+
+    .slidecontainer {
+        padding: 0 32px;
+    }
+
+    #range {
+        margin: 0;
+        width: 100%;
+    }
+
+    .d-flex.flex1 {
+        padding: 32px !important;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .flex2 {
+        width: 100%;
+    }
+
+    .flex2 h1 {
+        font-size: 30px;
+        padding: 0 !important;
+    }
+
+    .flex2 p {
+        padding: 7px 14px 0px !important;
+    }
+
+    .section-content2 p {
+        font-size: 18px;
+        width: 100%;
+        padding: 24px 32px;
+    }
+
+    .section3 {
+        margin-top: 132px;
+        padding: 0 32px;
+    }
+
+    .section-content3 {
+        margin-top: 38px;
+    }
+
+    .section-content3 h1 {
+        font-size: 19px;
+        padding-top: 19px;
+    }
+
+    .section-content3 p {
+        padding-top: 19px;
+    }
+
+    .section3 .btn-quote {
+        margin-top: 22px;
+        margin-bottom: 32px;
+    }
+
+    .Section4 {
+        padding: 0 32px 32px;
+    }
+
+    .Section4 h1 {
+        font-size: 32px;
+    }
+
+    .Section4 p {
+        padding-top: 19px;
+    }
+
+    .Section4 img {
+        height: 100%;
+        width: 100%;
+        margin-top: 42px;
+    }
+
+    .img-rect {
+        margin-top: 19px;
+    }
+
+    .Section4 button {
+        margin-top: 42px;
+    }
+
+    .section5 {
+        padding: 124px 32px 114px;
+    }
+
+    .section5 h1 {
+        font-size: 32px;
+        padding: 32px 0 32px;
+    }
+
+    .section5 p {
+        width: 100%;
+    }
+
+    .btn-5 {
+        margin-top: 39px;
+    }
+
+    .section6 {
+        padding: 85px 0px 100px 32px;
+    }
+
+    .banner-wrapper {
+        margin-top: 40px;
+    }
+
+    .flex6 {
+        margin-top: 40px;
+    }
+
+    .section7 h1 {
+        font-size: 30px;
+        padding: 70px 0 40px;
+    }
+
+    .section7 {
+        padding: 60px 0;
+    }
+
+    .section7 button {
+        margin-top: 40px;
+        margin-bottom: 60px;
+    }
+
+    .section8 h1 {
+        width: 100%;
+        font-size: 100px;
+    }
+
+    .section8 p {
+        width: 82%;
+    }
+
+    .footer {
+        padding: 40px 60px 150px;
+    }
+
+    .flex8 {
+        padding: 24px 60px;
+    }
+}
